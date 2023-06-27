@@ -6,4 +6,4 @@ in order to track the target when an occlusion is present.
 + The paper presented above implements a correlation based algorithm with very less specifications, our approach includes phase correlation
 to get the position of the tank faster instead of mean squared error.
 
-+ to improve processing time we also reduced the no.of features to track the centroids faster. 
++ to improve processing time we also reduced the no.of features to track the centroids faster, in the feature based approach where occlusion was a problem.
