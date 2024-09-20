@@ -7,3 +7,5 @@ in order to track the target when an occlusion is present.
 to get the position of the tank faster instead of mean squared error.
 
 + to improve processing time we also reduced the no.of features to track the centroids faster, in the feature based approach where occlusion was a problem.
+
+# Note that there is an implemented example of seeker in Data folder
